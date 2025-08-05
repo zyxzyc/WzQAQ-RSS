@@ -1,6 +1,9 @@
 {
     "name": "rsshub",
     "version": "1.0.0",
+   "engines": {
+    "node": "20.x"
+  },
     "description": "Make RSS Great Again!",
     "keywords": [
         "RSS"
